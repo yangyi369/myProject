@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="">
+    <list default="true" id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="comment by yangyi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,7 +48,8 @@
       <updated>1585810091226</updated>
       <workItem from="1585810093679" duration="162000" />
       <workItem from="1585810288892" duration="4382000" />
-      <workItem from="1585819925737" duration="1200000" />
+      <workItem from="1585819925737" duration="1446000" />
+      <workItem from="1585821385002" duration="1336000" />
     </task>
     <task id="LOCAL-00001" summary="sdfssd">
       <created>1585820470475</created>
@@ -57,29 +58,57 @@
       <option name="project" value="LOCAL" />
       <updated>1585820470475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comment by yangyi">
+      <created>1585821180972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585821180972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comment by yangyi">
+      <created>1585824974066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585824974066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdfssd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdfssd" />
+    <MESSAGE value="comment by yangyi" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment by yangyi" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="661" y="139" key="#Notifications" timestamp="1585816684476">
+    <state x="661" y="139" key="#Notifications" timestamp="1585821403033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="139" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585816684476" />
+    <state x="661" y="139" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585821403033" />
     <state x="684" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585820457804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="684" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585820457804" />
-    <state x="489" y="48" key="CommitChangelistDialog2" timestamp="1585820469952">
+    <state x="489" y="48" key="CommitChangelistDialog2" timestamp="1585824973222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585820469952" />
+    <state x="489" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585824973222" />
     <state x="790" y="437" key="FileChooserDialogImpl" timestamp="1585820260019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -88,18 +117,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1007" y="431" width="324" height="354" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585816539445" />
-    <state x="423" y="0" key="SettingsEditor" timestamp="1585821126222">
+    <state x="423" y="0" key="SettingsEditor" timestamp="1585825027605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="423" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585821126222" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1585820472493">
+    <state x="423" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585825027605" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1585824976138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585820472493" />
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585810289217">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585824976138" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585821391585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585810289217" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585821391585" />
     <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585819589264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
