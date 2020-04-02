@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="" />
+    <list default="true" id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,18 +48,38 @@
       <updated>1585810091226</updated>
       <workItem from="1585810093679" duration="162000" />
       <workItem from="1585810288892" duration="4382000" />
-      <workItem from="1585819925737" duration="343000" />
+      <workItem from="1585819925737" duration="1200000" />
     </task>
+    <task id="LOCAL-00001" summary="sdfssd">
+      <created>1585820470475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585820470475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdfssd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfssd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="661" y="139" key="#Notifications" timestamp="1585816684476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="139" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585816684476" />
+    <state x="684" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585820457804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585820457804" />
+    <state x="489" y="48" key="CommitChangelistDialog2" timestamp="1585820469952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585820469952" />
     <state x="790" y="437" key="FileChooserDialogImpl" timestamp="1585820260019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -66,10 +88,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1007" y="431" width="324" height="354" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585816539445" />
-    <state x="423" y="0" key="SettingsEditor" timestamp="1585820268439">
+    <state x="423" y="0" key="SettingsEditor" timestamp="1585821126222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="423" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585820268439" />
+    <state x="423" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585821126222" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1585820472493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585820472493" />
     <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585810289217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
