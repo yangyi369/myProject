@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZySxwOZNRd2zJEhFgramk6vU7G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0ad2063-c0eb-4c77-938a-632baecbfc52" name="Default Changelist" comment="" />
+      <created>1585810091226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585810091226</updated>
+      <workItem from="1585810093679" duration="162000" />
+      <workItem from="1585810288892" duration="4382000" />
+      <workItem from="1585819925737" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="139" key="#Notifications" timestamp="1585816684476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="139" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585816684476" />
+    <state x="790" y="437" key="FileChooserDialogImpl" timestamp="1585820260019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="437" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585820260019" />
+    <state x="1007" y="431" width="324" height="354" key="Github.ShareDialog" timestamp="1585816539445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1007" y="431" width="324" height="354" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585816539445" />
+    <state x="423" y="0" key="SettingsEditor" timestamp="1585820268439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585820268439" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585810289217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585810289217" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585819589264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585819589264" />
+  </component>
+</project>
